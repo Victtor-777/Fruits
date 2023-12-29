@@ -30,6 +30,14 @@ const linkAction = () => {
 navLink.forEach((n) => n.addEventListener("click", linkAction));
 
 /*=============== SHADOW HEADER ===============*/
+const scrollHeader = () => {
+  const header = document.querySelector("#header");
+  // Quando o scroll é maior que 50 de altura de viewport, adciona a classe shadow-header
+  this.scrollY >= 50
+    ? header.classList.add("shadow-header")
+    : header.classList.remove("shadow-header");
+};
+window.addEventListener("scroll", scrollHeader);
 
 /*=============== SHOW SCROLL UP ===============*/
 
