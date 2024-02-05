@@ -12,6 +12,7 @@ Projeto de um site de venda de frutas orgânicas. Nesse projeto eu aproveitei pa
 - [x] Possui uma setinha para voltar ao topo;
 - [x] Projeto segue os conceitos de Ui/Ux Design;
 - [x] Ao rolar o site a sessão ativa fica em verde para mostrar onde o usuário está;
+- [x] Modo Dark;
 - [x] Menu mobile;
 
 ## 🚀 Tecnologias
