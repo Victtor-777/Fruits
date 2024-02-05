@@ -5,6 +5,8 @@
 # 🍉 Frutas Website
 Projeto de um site de venda de frutas orgânicas. Nesse projeto eu aproveitei para praticar bastante CSS e a minhas skills de responsividade.
 
+- Veja o projeto: [Live Preview](https://victtor-fruits.vercel.app/)
+
 ## ⚙️ Funcionalidades
 
 - [x] Site totalmente responsivo e intuitivo;
